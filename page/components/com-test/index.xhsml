@@ -1,0 +1,4 @@
+<view class="child-container">
+  我是子组件
+  <view>test: {{ test }}</view>
+</view>

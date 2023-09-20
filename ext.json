@@ -1,0 +1,13 @@
+{
+  "extEnable": true,
+  "extAppid": "616e3bdeba1dc500014528f9",
+  "ext": {
+    "name": "Titian 示例小程序",
+    "form": {
+      "appid": "616d0cfa53d0ba0001db1528",
+      "env": "qa",
+      "pid": "-",
+      "storeId": "-"
+    }
+  }
+}

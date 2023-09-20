@@ -1,0 +1,8 @@
+<view class="ttt">
+  <com-test test="xxx" />
+   <view class="box">
+    <view xhs:for="{{array}}">
+    {{index}}: {{item.message}}
+    </view>
+ </view>
+</view>

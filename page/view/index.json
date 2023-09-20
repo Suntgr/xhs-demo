@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "zy-test": "/page/components/zy-test/index"
+  }
+}

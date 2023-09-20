@@ -1,0 +1,10 @@
+<view>
+  <input value="{{value}}" />
+  <button bindtap="onClick">
+    增加
+  </button>
+  <view>当前value: {{value}}</view>
+</view>
+  
+
+   
